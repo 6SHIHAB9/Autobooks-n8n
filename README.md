@@ -28,3 +28,4 @@ AutoBooks is an automation tool that extracts invoice data from emails or PDF at
 - **Node.js / TypeScript (optional custom nodes)**  
 
 
+**You can use workfloww.json to use this workflow**
